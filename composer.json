@@ -1,0 +1,22 @@
+{
+  "name": "com.mengyunzhi/thinkphp5.0-yunzhi",
+  "description": "the thinkphp5.0 for our team",
+  "type": "framework",
+  "keywords": [
+    "framework",
+    "mengyunzhi",
+  ],
+  "homepage": "http://www.mengyunzhi.com/",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "panjie",
+      "email": "panjie@yunzhiclub.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+  },
+  "require-dev": {
+  }
+}
